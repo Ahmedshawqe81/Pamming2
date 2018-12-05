@@ -93,3 +93,4 @@ if (message.content === 'y!spam') {
 
 client.login(process.env.TOKEN);
 client2.login(process.env.TOKEN2);
+client3.login(process.env.TOKEN3);
